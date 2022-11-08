@@ -1,1 +1,1 @@
-# clock
+# Simple js clock
